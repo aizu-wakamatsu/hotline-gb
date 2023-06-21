@@ -1,4 +1,10 @@
 # hotline-gb
 Hotline for Gpioblink.
 
-His Kainess of Gpioblink.
+---
+
+相手を確実に呼び出せるかもしれないツール。
+
+---
+
+Develop by Gpiobe & His Kainess.
