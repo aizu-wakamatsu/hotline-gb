@@ -16,4 +16,4 @@ repoの名前は変わるかもしれません。
 
 ---
 
-Develop by Gpiobe & His Kainess.
+© In honour of Gpioblink & His Kainess
