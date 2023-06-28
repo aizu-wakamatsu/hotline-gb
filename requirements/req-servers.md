@@ -14,4 +14,4 @@
   - ユーザからの呼び出しがある場合はフラグを立ててreturn
 
 ---
-© Gpiobe & His Kainess
+© In honour of Gpioblink & His Kainess
